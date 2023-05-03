@@ -6,4 +6,4 @@ do
    factorial=$(( $factorial * $counter ))
    counter=$(( $counter - 1 ))
 done
-echo "$factorial"
+echo "$counter $factorial"

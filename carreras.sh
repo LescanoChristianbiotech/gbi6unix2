@@ -1,14 +1,15 @@
-#!/bin/bash
-# case example
 case $1 in
-    gato)
+    BTC)
         echo miau
         ;;
-    perro)
+    ARQ)
         echo guau
         ;;
-    vaca)
-    echo muuu
+    HID)
+    echo mee
+        ;;
+    GEO)
+    echo oink
         ;;
     *)
         echo otro gato

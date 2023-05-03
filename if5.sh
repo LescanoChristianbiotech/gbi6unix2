@@ -1,8 +1,8 @@
 #!/bin/bash
 # or example
-if [ $1 == 'bob' ] || [ $1 == 'andy' ]
+if [ $1 == 'Pacifi2013_data.csv' ] || [ $1 == 'Buzzard2015_dada.csv' ]
 then
-ls -lh
+ls contador.sh
 else
 ls
 fi
